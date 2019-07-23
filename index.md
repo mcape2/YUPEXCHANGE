@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to YUPEXCHANGE.COM
 
-You can use the [editor on GitHub](https://github.com/mcape2/YUPEXCHANGE/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Your portal to accessing the Uniswap liquidity pool for Crowdholding's YUP token.  Buy, Sell, or even add your own liquidity to the YUP pool to earn trading fees...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
