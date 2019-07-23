@@ -5,7 +5,7 @@ Your portal to accessing the Uniswap liquidity pool for Crowdholding's YUP token
 
 [TRADE NOW](https://uniswap.exchange/swap/0xd9a12cde03a86e800496469858de8581d3a5353d)
   
-Learn how to add your own task over at [Crowdholding.com](https://www.crowdholding.com) by watching the video below...
+[Crowdholding.com](https://www.crowdholding.com) is an idea-validation and crowd-wisdom centric platform for obtaining feeback and insights from the crowd.  And you can learn how to add your own task by watching the video below... 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jMsWxd6XTWE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
