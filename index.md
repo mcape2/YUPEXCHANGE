@@ -9,3 +9,5 @@ Learn how to add your own task over at [Crowdholding.com](https://www.crowdholdi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jMsWxd6XTWE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+And you can learn more about Uniswap: [HERE](https://docs.uniswap.io/)
+
