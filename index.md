@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="gistfile1.css">
 
-WELCOME TO YUPEXCHANGE.COM <img src="little yup.jpg" alt="yup" width="50" height="50">
+WELCOME TO YUPEXCHANGE.COM <img src="little yup.jpg" alt="yup" width="30" height="30">
 
 Your portal to accessing the Uniswap liquidity pool for Crowdholding's YUP token.  
 
