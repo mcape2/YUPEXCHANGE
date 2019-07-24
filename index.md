@@ -15,5 +15,5 @@ Your portal to accessing the Uniswap liquidity pool for Crowdholding's YUP token
 </div>
 
 <br/>
-And you can learn more about Uniswap: [HERE](https://docs.uniswap.io/)  YouTube guide to adding liquidity: [HERE.](https://www.youtube.com/watch?v=XcrKB1zqP9I)
+And you can learn more about Uniswap: [HERE](https://docs.uniswap.io/)  YouTube guide to adding/removing liquidity: [HERE.](https://www.youtube.com/watch?v=XcrKB1zqP9I)
 
