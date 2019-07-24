@@ -1,7 +1,5 @@
 <link rel="stylesheet" type="text/css" href="gistfile1.css">
 
-<img src="yup exchange.jpg"
-
 WELCOME TO YUPEXCHANGE.COM
 
 Your portal to accessing the Uniswap liquidity pool for Crowdholding's YUP token.  
