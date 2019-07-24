@@ -17,4 +17,3 @@ Your portal to accessing the Uniswap liquidity pool for Crowdholding's YUP token
 <br/>
 And you can learn more about Uniswap: [HERE](https://docs.uniswap.io/)
 
-<center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currencyid="2910" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center>
