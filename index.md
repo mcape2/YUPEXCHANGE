@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="gistfile1.css">
 
-<img src="yup exchange.jpg" alt="yup" width="200" height="300">
+<img src="yup exchange.jpg" alt="yup" width="2000" height="300">
 
 WELCOME TO YUPEXCHANGE.COM 
 
