@@ -1,9 +1,5 @@
 <link rel="stylesheet" type="text/css" href="gistfile1.css">
 
-<div class="video-container">
-<iframe src="http://player.vimeo.com/video/6284199?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0"></iframe>
-</div>
-
 WELCOME TO YUPEXCHANGE.COM
 
 Your portal to accessing the Uniswap liquidity pool for Crowdholding's YUP token.  
@@ -14,7 +10,9 @@ Your portal to accessing the Uniswap liquidity pool for Crowdholding's YUP token
   
 [Crowdholding.com](https://www.crowdholding.com) is an idea-validation and crowd-wisdom centric platform for obtaining feeback and insights from Crowdholdings' fast growing and diverse user-base.   And you can learn how to add your own task by watching the video below... 
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jMsWxd6XTWE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br/>
 
