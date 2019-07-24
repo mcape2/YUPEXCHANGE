@@ -1,4 +1,7 @@
 <link rel="stylesheet" type="text/css" href="gistfile1.css">
+<div class="video-container">
+<iframe src="http://player.vimeo.com/video/6284199?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0"></iframe>
+</div>
 
 WELCOME TO YUPEXCHANGE.COM
 
