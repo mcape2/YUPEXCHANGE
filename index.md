@@ -2,7 +2,8 @@
 
 WELCOME TO YUPEXCHANGE.COM
 
-Your portal to accessing the Uniswap liquidity pool for Crowdholding's YUP token.  
+Your portal to accessing the Uniswap liquidity pool for Crowdholding's YUP token.  <img src="little yup.jpg" alt="yup" width="5" height="3">
+
 
 <i>Buy, sell, or even add your own liquidity to the YUP pool to earn trading fees...</i>
 
