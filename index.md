@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="css/gistfile1.css">
+<link rel="stylesheet" type="text/css" href="gistfile1.css">
 
 WELCOME TO YUPEXCHANGE.COM
 
