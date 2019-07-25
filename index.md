@@ -2,14 +2,15 @@
 
 WELCOME TO YUPEXCHANGE.COM 
 
-Your portal to accessing the Uniswap liquidity pool for Crowdholding's YUP token.  <img src="little yup.jpg" alt="yup" width="30" height="30">          Mobile users can access Uniswap directly [HERE.](https://uniswap.exchange/swap/0xd9a12cde03a86e800496469858de8581d3a5353d)
+Your portal to accessing the Uniswap liquidity pool for Crowdholding's YUP token.  <img src="little yup.jpg" alt="yup" width="30" height="30">          
 
 <i>Buy, sell, or even add your own liquidity to the YUP pool to share in the trading fees.</i>
 
 <div class="intrinsic-container intrinsic-container-16x9">
   <iframe src="https://uniswap.exchange/swap/0xd9a12cde03a86e800496469858de8581d3a5353d" allowfullscreen></iframe>
 </div>
-
+<br/>
+Mobile users can access Uniswap directly [HERE.](https://uniswap.exchange/swap/0xd9a12cde03a86e800496469858de8581d3a5353d)
 <br/>
 
 [Crowdholding.com](https://www.crowdholding.com) is a blockchain-powered idea-validation and crowd-wisdom centric platform for obtaining feedback and insights from Crowdholdings' fast growing and diverse user-base.   And you can learn how to add your own task by watching the video below.  Or sign-up as a user to earn cryptocurrency rewards.
