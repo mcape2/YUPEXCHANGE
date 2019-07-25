@@ -6,7 +6,7 @@ Your portal to accessing the Uniswap liquidity pool for Crowdholding's YUP token
 
 <i>Buy, sell, or even add your own liquidity to the YUP pool to share in the trading fees.</i>
 
-<iframe src="https://uniswap.exchange/swap/0xd9a12cde03a86e800496469858de8581d3a5353d"></iframe>
+<iframe src="https://uniswap.exchange/swap/0xd9a12cde03a86e800496469858de8581d3a5353d" width="3000" height="2000"></iframe>
 
 [TRADE NOW](https://uniswap.exchange/swap/0xd9a12cde03a86e800496469858de8581d3a5353d)
   
